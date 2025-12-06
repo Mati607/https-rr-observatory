@@ -1,0 +1,6 @@
+numpy==2.0.2
+pandas==2.2.3
+jupyterlab==4.2.5
+matplotlib==3.9.2
+seaborn==0.13.2
+dnspython==2.7.0
