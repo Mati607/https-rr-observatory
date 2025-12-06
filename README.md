@@ -1,6 +1,6 @@
 # Updated DNS HTTPS Resource Record Measurements  
 
-This repository contains code and analysis for an updated longitudinal study of DNS HTTPS and SVCB Resource Records, extending the methodology of the IMC 2024 paper *"Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."*
+This repository contains code and analysis for an updated longitudinal study of DNS HTTPS and SVCB Resource Records for the time period April 2024 to July 2025, extending the methodology of the IMC 2024 paper *"Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."*
 
 The updated analysis includes:
 - New HTTPS/SVCB RR adoption trends  
